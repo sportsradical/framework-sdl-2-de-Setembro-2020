@@ -1,0 +1,12 @@
+﻿  Player.cpp
+C:\Users\sports\Desktop\sdl games\Framework\Framework\Player.cpp(39,85): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\sports\Desktop\sdl games\Framework\Framework\Player.cpp(39,68): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Framework.vcxproj -> C:\Users\sports\Desktop\sdl games\Framework\bin\x32\Debug\Framework.exe
